@@ -1,7 +1,7 @@
 # Enter
 
-# name = input('Whats is your name? ').title()
-# print('Hello,', name)
+name = input('Whats is your name? ').title()
+print('Hello,', name)
 
 # Zodiac sign 
 def validation():
